@@ -1,0 +1,36 @@
+body {
+    color: white;
+    background: black;
+margin: 0px;
+font-family: "Chakra Petch", sans-serif;
+}
+
+header{
+    border-bottom: solid 2px white;
+    padding: 20px;
+    font-size: 25px;
+    color: white
+}
+
+section{
+    background:darkred;
+    padding-bottom:80pxx;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 5%;
+}
+
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+
+img {
+    height: 200px;
+}
